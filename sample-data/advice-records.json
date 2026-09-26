@@ -1,0 +1,4 @@
+[
+  { "adviceId": "ADV-001", "visitId": "TASK-CLOTH-1005", "stakeholderName": "Kafue Textile Cooperative", "industryCode": "CLOTH_TEXTILE", "topic": "Colour fastness", "advice": "Hold the dye lot, record the failed test, and submit a controlled re-test before release.", "status": "Issued", "issuedAt": "2026-09-22T12:30:00+02:00", "reviewDueAt": "2026-09-29T12:00:00+02:00" },
+  { "adviceId": "ADV-002", "visitId": "TASK-FURN-1002", "stakeholderName": "Central Furniture Works", "industryCode": "FURNITURE", "topic": "Stability", "advice": "Quarantine unstable units and verify joint torque before re-inspection.", "status": "Supervisor review", "issuedAt": "2026-09-23T15:15:00+02:00", "reviewDueAt": "2026-09-27T15:00:00+02:00" }
+]
