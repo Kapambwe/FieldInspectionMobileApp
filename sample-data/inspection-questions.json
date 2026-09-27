@@ -1,0 +1,5 @@
+[
+  { "questionId": "Q-001", "visitId": "TASK-SHOE-1001", "stakeholderName": "Zambia Footwear Works", "industryCode": "SHOE_MANUFACTURING", "productCode": "FOOTWEAR", "topic": "Sole bonding", "question": "What corrective action is recommended for inconsistent sole bonding?", "status": "Open", "priority": "High", "askedAt": "2026-09-24T08:10:00+02:00", "dueAt": "2026-09-25T12:00:00+02:00" },
+  { "questionId": "Q-002", "visitId": "TASK-HONEY-1004", "stakeholderName": "Zambia Honey Cooperative", "industryCode": "HONEY", "productCode": "HONEY", "topic": "Moisture control", "question": "How should high-moisture honey be held pending laboratory review?", "status": "In Progress", "priority": "Normal", "askedAt": "2026-09-23T14:20:00+02:00", "dueAt": "2026-09-26T16:00:00+02:00" },
+  { "questionId": "Q-003", "visitId": "TASK-CLOTH-1005", "stakeholderName": "Kafue Textile Cooperative", "industryCode": "CLOTH_TEXTILE", "productCode": "FABRIC", "topic": "Colour fastness", "question": "Which records are required when a dye lot fails colour-fastness checks?", "status": "Answered", "priority": "Normal", "askedAt": "2026-09-22T10:00:00+02:00" }
+]

@@ -1,0 +1,4 @@
+[
+  { "feedbackId": "FDB-001", "visitId": "TASK-SHOE-1001", "stakeholderName": "Zambia Footwear Works", "industryCode": "SHOE_MANUFACTURING", "rating": 4, "comment": "Inspection guidance was clear; follow-up on bonding test timing is required.", "status": "Recorded", "recordedAt": "2026-09-23T16:00:00+02:00" },
+  { "feedbackId": "FDB-002", "visitId": "TASK-OIL-1003", "stakeholderName": "Lusaka Edible Oils", "industryCode": "COOKING_OIL", "rating": 2, "comment": "Laboratory result turnaround is delaying batch release.", "status": "Escalated", "recordedAt": "2026-09-24T11:30:00+02:00" }
+]
